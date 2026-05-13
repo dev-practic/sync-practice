@@ -1,1 +1,1 @@
-Local version
+Local version 1.0
